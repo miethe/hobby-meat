@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-baseURL = "https://github.com/miethe/wiki-docs-docsy"
-title = "Meaty's Wiki Template"
-=======
 baseURL = "https://nick.miethe.dev/hobby-meat/"
 title = "Hobby Meat"
->>>>>>> eea84ba (first commit)
 
 # Language settings
 contentDir = "content/en"
@@ -18,11 +13,7 @@ enableRobotsTXT = true
 # Will give values to .Lastmod etc.
 enableGitInfo = true
 
-<<<<<<< HEAD
-refLinksNotFoundURL = "https://pages.github.com/miethe/wiki-docs-docsy"
-=======
 refLinksNotFoundURL = "https://nick.miethe.dev/hobby-meat/"
->>>>>>> eea84ba (first commit)
 refLinksErrorLevel = "WARNING"
 
 # Configure how URLs look like per section.
@@ -91,11 +82,7 @@ version = "0.4"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-<<<<<<< HEAD
-url_latest_version = "https://pages.github.com/miethe/wiki-docs-docsy"
-=======
 url_latest_version = "https://nick.miethe.dev/hobby-meat/"
->>>>>>> eea84ba (first commit)
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
 github_repo = "https://github.com/miethe/wiki-docs-docsy"
