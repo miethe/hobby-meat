@@ -17,3 +17,7 @@ package-lock.json
 .hugo_build.lock
 
 .DS_Store
+<<<<<<< HEAD
+=======
+hobby-meat.code-workspace
+>>>>>>> eea84ba (first commit)
