@@ -3,14 +3,14 @@
 {{ $title := .Site.Title }}
 {{ $subtitle := .Site.Params.subtitle }}
 
-{{ if in .Permalink "/bop-onboarding" }}
+{{ if in .Permalink "/about" }}
   {{ $logo = "icons/logo.svg" }}
-  {{ $title = "BOP: " }}
-  {{ $subtitle = "Onboarding" }}
-{{ else if in .Permalink "/general-enablement" }}
+  {{ $title = "The Distracted Hobbyist" }}
+  {{ $subtitle = "" }}
+{{ else if in .Permalink "/blog" }}
   {{ $logo = "icons/logo.svg" }}
-  {{ $title = "BoxBoat: " }}
-  {{ $subtitle = "Learning & Enablement" }}
+  {{ $title = "Hobbits, Servers, and Chairs" }}
+  {{ $subtitle = "" }}
 {{ end }}
 
 {{ $cover := and
