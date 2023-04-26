@@ -1,7 +1,7 @@
 +++
 title = "Rich Dad, Poor Dad"
 description = '''
-Find alternatives to commonly recommended books, and why it matters
+Learn more about finance, despite society's best efforts
 '''
 +++
 
@@ -30,14 +30,14 @@ That said, there are several books which address these issues, and more, with st
 
 ## Read This Instead
 
-Rather than wasting time on an inciteful piece of largely fiction, here are several highly regarded self-help finance books that offer valuable advice and insights on personal finance and investing. These books are often recommended by experts and have received positive reviews from readers.
+Rather than wasting time on an "inciteful" piece of ~~non~~fiction, here are several highly regarded self-help finance books that offer valuable advice and insights on personal finance and investing. These books are often recommended by experts and have received positive reviews from readers.
 
 ### The Total Money Makeover
 
 *The Total Money Makeover* by Dave Ramsey provides a step-by-step plan for achieving financial stability and getting out of debt. Ramsey's approach is based on his "7 Baby Steps" to financial freedom, which include creating an emergency fund, paying off debt, and investing for retirement.
 
 {{% alert title="Content Warning" color="warning" %}}
-I should note, Dave Ramsey is a controversial character, but the content of this book has helped many people. Read more insights on Ramsey's persona.
+I should note, Dave Ramsey is a controversial character, but the content of this book has helped many people. [Read more]({{< ref "/dave-ramsey" >}}) insights on Ramsey's persona.
 {{% /alert %}}
 
 Key points:
