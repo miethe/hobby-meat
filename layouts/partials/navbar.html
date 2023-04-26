@@ -18,8 +18,8 @@
     (not .Site.Params.ui.navbar_translucent_over_cover_disable)
 -}}
 
-<nav class="js-navbar-scroll navbar navbar-expand-lg navbar-dark
-            {{- if $cover }} td-navbar-cover {{- end }} flex-row td-navbar">
+<nav class="js-navbar-scroll navbar navbar-expand-lg
+            {{- if $cover }} navbar-light td-navbar-cover {{- else }} navbar-dark {{- end }} flex-row td-navbar">
   <a class="navbar-brand" href="{{ .Site.Home.RelPermalink }}">
     {{- /**/ -}}
     <span class="navbar-brand__logo navbar-logo">
