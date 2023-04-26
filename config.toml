@@ -1,4 +1,4 @@
-baseURL = "https://nick.miethe.dev/hobby-meat/"
+baseURL = "https://distractedhobbyists.com"
 title = "Hobby Meat"
 
 # Language settings
@@ -13,7 +13,7 @@ enableRobotsTXT = true
 # Will give values to .Lastmod etc.
 enableGitInfo = true
 
-refLinksNotFoundURL = "https://nick.miethe.dev/hobby-meat/"
+refLinksNotFoundURL = "https://distractedhobbyists.com"
 refLinksErrorLevel = "WARNING"
 
 # Configure how URLs look like per section.
@@ -82,12 +82,12 @@ version = "0.4"
 
 # A link to latest version of the docs. Used in the "version-banner" partial to
 # point people to the main doc site.
-url_latest_version = "https://nick.miethe.dev/hobby-meat/"
+url_latest_version = "https://distractedhobbyists.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/miethe/wiki-docs-docsy"
+github_repo = "https://github.com/miethe/hobby-meat"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-# github_project_repo = "https://github.com/miethe/wiki-docs-docsy"
+# github_project_repo = "https://github.com/miethe/hobby-meat"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
