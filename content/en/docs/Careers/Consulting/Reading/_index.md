@@ -5,8 +5,6 @@ date = 2023-04-12
 description = '''
 List of notable reads for Consulting.
 '''
-categories = ["Book Club", "Consulting"]
-tags = ["Leadership"]
 +++
 
 {{< box >}}
@@ -20,6 +18,7 @@ In this list you will find a collection of books, periodicals, and other writing
 In order to foster that degree of expertise, it is important to expand your understanding in a variety of domains, from Business and Finance, to Communication and Influence, to Human Psychology and beyond!
 
 Here are some additional resources with further reads and potential discourse around the items below:
+
 * [r/consulting reading list](https://www.reddit.com/r/consulting/wiki/index/mcreading/)
 * [P&G: Execs](https://poetsandquantsforexecs.com/)
 * [David A Fields: Blog](https://www.davidafields.com/5-unexpected-books-every-consultant-should-read/?back=1)

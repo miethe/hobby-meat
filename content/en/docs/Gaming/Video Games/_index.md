@@ -1,5 +1,5 @@
 +++
-title = "Gaming"
+title = "Video Gaming"
 description = '''
 
 '''
