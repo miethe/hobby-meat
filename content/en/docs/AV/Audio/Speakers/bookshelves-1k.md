@@ -31,6 +31,7 @@ There are a number of variables to consider when searching for a pair of near-fi
 | Q Acoustics 3030i   | $399 | 6.5" Aramid Fiber and 1" decoupled double-dome tweeter | 46Hz - 30kHz      | 88dB        | 6 ohms    | These speakers deliver a balanced and natural sound signature, making them well-suited for those who enjoy a wide range of music genres. |
 | Triangle Borea BR03 | $549 | 5.25" cellulose and 1" silk dome tweeter | 49Hz - 22kHz      | 90dB        | 8 ohms    | lively and engaging sound, these speakers are a great choice for those who like to feel emotionally connected to their music. |
 | Focal Chorus 706    | $749 | 6.5" Polyglass mid-bass driver and 1" Al/Mg inverted dome tweeter | 55Hz - 28kHz | 90dB | 8 ohms | neutral and transparent sound signature, perfect for audiophiles who want accurate and detailed sound reproduction |
+| Focal Aria 906    | $1500 | 6.5" Polyglass mid-bass driver and 1" Al/Mg inverted dome tweeter | 55Hz - 28kHz | 90dB | 8 ohms | neutral and transparent sound signature, perfect for audiophiles who want accurate and detailed sound reproduction |
 | Wharfedale Diamond 12.2 | $599 | 5.12" woven Kevlar         | 52Hz - 20kHz      | 88dB        | 8 ohms    | Great value, good clarity |
 | Wharfedale Evo 4.1   | $599 | 4.5" woven Kevlar and 1" soft dome tweeter | 52Hz - 22kHz      | 86dB        | 4 ohms    | warm and natural sound signature that's great for acoustic music and vocals |
 | Wharfedale Evo 4.2   | $749 | 5.25" woven Kevlar         | 41Hz - 22kHz      | 88dB        | 4 ohms    | Deep bass extension, versatile |
@@ -42,3 +43,6 @@ There are a number of variables to consider when searching for a pair of near-fi
 
 Just a few options here!
 
+## Decision
+
+As I pursued my decision making process, I had several criteria in the front of mind. 1 was aesthetics, considering these speakers would be a key feature of my desk and, thus, office, where I spend most of my time. However, it certainly wasn't the most important.

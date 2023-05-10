@@ -124,13 +124,15 @@ taxonomyPageHeader = ["tags", "categories"]
     weight = 10
     url = "/docs/"
 [[menu.main]]
-    name = "Blog"
+    name = "OCPedia"
     weight = 20
-    url = "/blog/"
+    url = "https://openshift.blog/"
+    post = " <sup><i class='ps-1 fa-solid fa-up-right-from-square fa-xs'></i></sup>"
 [[menu.main]]
-    name = "About"
+    name = "MeatyBytes Blog"
     weight = 30
-    url = "/about/"
+    url = "https://meatybytes.io/"
+    post = " <sup><i class='ps-1 fa-solid fa-up-right-from-square fa-xs'></i></sup>"
 
 # User interface configuration
 [params.ui]
